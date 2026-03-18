@@ -1,6 +1,6 @@
 # 📱 MOD-ODAK: Dinamik Mod Yönetimi ve Verimlilik Sistemi
 
-Bu proje, modern çalışma disiplinlerini (Deep Work, Agile Meeting, Bug Hunting vb.) tek bir çatı altında toplayan, kullanıcıya seçtiği çalışma moduna göre görsel ve zihinsel bir atmosfer sunan **Dinamik Mod Yönetim Uygulamasıdır.** ## 🎯 Projenin Amacı (Challenge Kapsamı)
+Bu proje, kullanıcıya seçtiği çalışma moduna göre görsel ve zihinsel bir atmosfer sunan **Dinamik Mod Yönetim Uygulamasıdır.** ## 🎯 Projenin Amacı 
 Uygulama, kullanıcının gün içindeki farklı enerji seviyelerini ve iş türlerini "Modlar" aracılığıyla kategorize eder. Sadece bir sayaç değil; seçilen moda göre değişen **arka plan görselleri**, **puanlama katsayıları** ve **farkındalık mesajları** ile tam bir odaklanma ekosistemi oluşturmayı hedefler.
 
 ---
