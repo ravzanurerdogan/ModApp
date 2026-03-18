@@ -1,44 +1,43 @@
-# 🎯 ODAK - Kişisel Verimlilik ve Farkındalık Uygulaması
+# 📱 MOD-ODAK: Dinamik Mod Yönetimi ve Verimlilik Sistemi
 
-Bu uygulama, kullanıcıların günlük çalışma rutinlerini (Odak, Mola, Eğitim vb.) yönetmelerine yardımcı olan, oyunlaştırma (gamification) öğeleriyle zenginleştirilmiş bir mobil verimlilik aracıdır. Kullanıcının her tamamladığı oturum ona puan kazandırır ve **Çaylak**'tan **Profesör**'e uzanan bir kariyer yolculuğu sunar.
+Bu proje, modern çalışma disiplinlerini (Deep Work, Agile Meeting, Bug Hunting vb.) tek bir çatı altında toplayan, kullanıcıya seçtiği çalışma moduna göre görsel ve zihinsel bir atmosfer sunan **Dinamik Mod Yönetim Uygulamasıdır.** ## 🎯 Projenin Amacı (Challenge Kapsamı)
+Uygulama, kullanıcının gün içindeki farklı enerji seviyelerini ve iş türlerini "Modlar" aracılığıyla kategorize eder. Sadece bir sayaç değil; seçilen moda göre değişen **arka plan görselleri**, **puanlama katsayıları** ve **farkındalık mesajları** ile tam bir odaklanma ekosistemi oluşturmayı hedefler.
 
-## ✨ Öne Çıkan Özellikler
+---
 
-* **Dengeli Motivasyon:** Her çalışma modu için özenle seçilmiş motivasyon notları.
-* **Oyunlaştırılmış İlerleme:** %100 hedefine ulaşıldığında kazanılan "Profesör" ünvanı ve kutlama modülleri.
-* **Dinamik Arka Planlar:** Seçilen moda göre değişen görsel atmosfer.
-* **Akıllı Sayaç ve Kontroller:** Yanlışlıkla mod değişimlerini engelleyen uyarı sistemleri ve gerçek zamanlı geri sayım.
+## 🎭 Uygulama Modları ve Akıllı Senaryolar
 
-## 🛠️ Teknik Özellikler
+Uygulama, her biri kendine has bir disipline sahip 6 ana mod üzerine kurgulanmıştır:
 
-* **Framework:** React Native (Expo)
-* **Dil:** TypeScript
-* **UI/UX:** Custom StyleSheet mimarisi (Karanlık Tema odaklı modern arayüz)
-* **Build Aracı:** EAS (Expo Application Services)
+1.  **💻 Odak (Deep Work):** Tam konsantrasyon gerektiren görevler için.
+2.  **📚 Eğitim (Learning):** Yeni beceriler kazanma ve okuma süreçleri için.
+3.  **🔍 Hata Avı (Debug):** Analitik dikkat ve sabır gerektiren teknik süreçler için.
+4.  **🤝 Toplantı (Collaboration):** Takım çalışması ve istişare süreçleri için.
+5.  **☕ Mola (Rest):** Zihinsel toparlanma ve nefes alanları için.
+6.  **🧯 Kritik (Emergency):** Hızlı müdahale ve kriz yönetimi anları için.
 
-## 🚀 Uygulama Modları ve Süreleri
+---
 
-Uygulama, akademik ve profesyonel standartlara uygun olarak şu sürelerle yapılandırılmıştır:
+## ✨ Teknik Öne Çıkanlar
 
-| Mod | Süre | Kazandırdığı Puan |
-| :--- | :--- | :--- |
-| **Odak** | 25 Dakika | 25 Puan |
-| **Eğitim** | 30 Dakika | 20 Puan |
-| **Hata Avı** | 15 Dakika | 20 Puan |
-| **Toplantı** | 20 Dakika | 15 Puan |
-| **Mola** | 5 Dakika | 10 Puan |
-| **Kritik Müdahale** | 3 Dakika | 10 Puan |
+* **Dinamik UI Katmanı:** Seçilen moda göre `ImageBackground` ve `StyleSheet` objelerinin anlık olarak yeniden render edilmesi (State Management).
+* **Hibrit Motivasyon Motoru:** Modlara özel olarak tanımlanmış, %50 profesyonel motivasyon ve %50 kadim hikmet (manevi farkındalık) içeren algoritma.
+* **Oyunlaştırılmış Seviye Sistemi:** Tamamlanan her modun puanı `Async` mantığıyla hesaplanarak kullanıcıyı "Çaylak", "Uzman" ve "Profesör" rütbelerine taşır.
+* **Build Mimarisi:** Expo Application Services (EAS) üzerinden bulut tabanlı Android SDK derlemesi.
 
-## 📦 Kurulum ve Çalıştırma
+---
 
-Projeyi yerel ortamınızda çalıştırmak için:
+## 📊 Teknik Veri Tablosu
 
-1. Depoyu klonlayın.
-2. Bağımlılıkları yükleyin:
-   ```bash
-   npm install
+| Mod İsmi | Süre (Dk) | Puan Katsayısı | Uygulanan Disiplin |
+| :--- | :--- | :--- | :--- |
+| **Odak** | 25 | 25 | Derin Çalışma |
+| **Eğitim** | 30 | 20 | Bilişsel Gelişim |
+| **Hata Avı** | 15 | 20 | Problem Çözme |
+| **Toplantı** | 20 | 15 | İletişim/İstişare |
+| **Mola** | 5 | 10 | Mental Rejenerasyon |
+| **Kritik** | 3 | 10 | Hızlı Karar Verme |
 
-Projenin tüm çıktılarına aşağıdaki bağlantılardan ulaşabilirsiniz:
 
 **📁 Google Drive (APK & Kaynak Kod):** [(https://drive.google.com/file/d/10ewyCzcqiCaWxUSpw03vOuD9rvuSMzu7/view?usp=sharing)]
 * **🎥 Uygulama Tanıtım Videosu:** [https://youtube.com/shorts/c-CntJoi-68?si=_x9EWRjgAOLRTAxf]
