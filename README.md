@@ -69,8 +69,9 @@ npm install
 npx expo start
 
 
+🔗 PROJE BAĞLANTI VE DOSYALARI
 📁 Google Drive (APK & Kaynak Kod):
-[(https://drive.google.com/file/d/10ewyCzcqiCaWxUSpw03vOuD9rvuSMzu7/view?usp=sharing)]
+https://drive.google.com/file/d/10ewyCzcqiCaWxUSpw03vOuD9rvuSMzu7/view?usp=sharing
 
 🎥 Uygulama Tanıtım Videosu:
-[(https://youtube.com/shorts/c-CntJoi-68?si=_x9EWRjgAOLRTAxf)]
+https://youtube.com/shorts/c-CntJoi-68?si=_x9EWRjgAOLRTAxf
