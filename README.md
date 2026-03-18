@@ -68,6 +68,9 @@ npm install
 # Uygulamayı başlat
 npx expo start
 
-**📁 Google Drive (APK & Kaynak Kod):** [(https://drive.google.com/file/d/10ewyCzcqiCaWxUSpw03vOuD9rvuSMzu7/view?usp=sharing)]
 
-* **🎥 Uygulama Tanıtım Videosu:** [https://youtube.com/shorts/c-CntJoi-68?si=_x9EWRjgAOLRTAxf]
+📁 Google Drive (APK & Kaynak Kod):
+[Drive Dosyasına Git](https://drive.google.com/file/d/10ewyCzcqiCaWxUSpw03vOuD9rvuSMzu7/view?usp=sharing)
+
+🎥 Uygulama Tanıtım Videosu:
+[YouTube Üzerinden İzle](https://youtube.com/shorts/c-CntJoi-68?si=_x9EWRjgAOLRTAxf)
